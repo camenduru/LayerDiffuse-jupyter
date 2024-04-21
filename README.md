@@ -11,6 +11,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/LayerDiffuse-jupyter/blob/main/LayerDiffuse_jupyter.ipynb) | LayerDiffuse_jupyter
 
 ### 🧬 Code
+https://github.com/layerdiffusion/LayerDiffuse <br />
 https://github.com/layerdiffusion/sd-forge-layerdiffuse <br />
 https://github.com/huchenlei/ComfyUI-layerdiffuse <br />
 
