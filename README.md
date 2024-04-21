@@ -14,6 +14,7 @@
 https://github.com/layerdiffusion/LayerDiffuse <br />
 https://github.com/layerdiffusion/sd-forge-layerdiffuse <br />
 https://github.com/huchenlei/ComfyUI-layerdiffuse <br />
+https://github.com/comfyanonymous/ComfyUI <br />
 
 ### 🖼 Output
 
